@@ -1,0 +1,11 @@
+[submodule "pxt"]
+	path = pxt
+	url = https://github.com/qudgus3822/pxt.git
+
+[submodule "pxt-common-packages"]
+	path = pxt-common-packages
+	url = https://github.com/qudgus3822/pxt-common-packages.git
+
+[submodule "pxt-microbit"]
+	path = pxt-microbit
+	url = https://github.com/qudgus3822/pxt-microbit.git
