@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "cd pxt-microbit && pxt serve",
+    "dev": "cd pxt-microbit && pxt serve",
+    "build": "cd pxt-microbit && pxt staticpkg"
+  }
+}
